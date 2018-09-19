@@ -1,0 +1,2527 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.8.3",
+  "hash": "cc72a234c1f1da27b76a",
+  "publicPath": "/",
+  "outputPath": "/home/virk/Desktop/Escape/build",
+  "assetsByChunkName": {
+    "runtime": "scripts/runtime.21804de8.js",
+    "main": [
+      "styles/1.474d72bf.css",
+      "scripts/main.1925379d.js"
+    ]
+  },
+  "assets": [
+    {
+      "name": "fonts/BrandonGrotesque-Medium.a24bfe8e.eot",
+      "size": 105834,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "fonts/BrandonGrotesque-Bold.25ca70ac.eot",
+      "size": 104890,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "fonts/BrandonGrotesque-Light.152bdc29.woff",
+      "size": 42968,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "fonts/BrandonGrotesque-Light.e4fcb109.ttf",
+      "size": 101428,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "fonts/BrandonGrotesque-Regular.065b98c6.eot",
+      "size": 105778,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "fonts/BrandonGrotesque-Bold.0b59275f.ttf",
+      "size": 104660,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "fonts/BrandonGrotesque-Regular.013a89eb.woff",
+      "size": 43108,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "fonts/BrandonGrotesque-Medium.ef4fddb0.ttf",
+      "size": 105596,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "fonts/BrandonGrotesque-Light.9e65c2c4.eot",
+      "size": 101662,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "fonts/BrandonGrotesque-Medium.920c11f3.woff",
+      "size": 44840,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "fonts/BrandonGrotesque-Regular.aba7d125.ttf",
+      "size": 105536,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "fonts/BrandonGrotesque-Bold.1ad8d40b.woff",
+      "size": 44308,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "images/background.8854ab38.png",
+      "size": 4775410,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "scripts/runtime.21804de8.js",
+      "size": 1065,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "runtime"
+      ]
+    },
+    {
+      "name": "styles/1.474d72bf.css",
+      "size": 5164,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "main"
+      ]
+    },
+    {
+      "name": "scripts/main.1925379d.js",
+      "size": 148,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "main"
+      ]
+    },
+    {
+      "name": "index.html",
+      "size": 2577,
+      "chunks": [],
+      "chunkNames": []
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "main": {
+      "chunks": [
+        0,
+        1
+      ],
+      "assets": [
+        "scripts/runtime.21804de8.js",
+        "styles/1.474d72bf.css",
+        "scripts/main.1925379d.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "main": {
+      "chunks": [
+        0,
+        1
+      ],
+      "assets": [
+        "scripts/runtime.21804de8.js",
+        "styles/1.474d72bf.css",
+        "scripts/main.1925379d.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "chunks": [
+    {
+      "id": 0,
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 0,
+      "names": [
+        "runtime"
+      ],
+      "files": [
+        "scripts/runtime.21804de8.js"
+      ],
+      "hash": "21804de843a3aab74ef9",
+      "siblings": [
+        1
+      ],
+      "parents": [],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "main",
+          "request": "/home/virk/Desktop/Escape/app/scripts",
+          "reasons": []
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "rendered": true,
+      "initial": true,
+      "entry": false,
+      "size": 12754,
+      "names": [
+        "main"
+      ],
+      "files": [
+        "styles/1.474d72bf.css",
+        "scripts/main.1925379d.js"
+      ],
+      "hash": "1925379d6d078e522556",
+      "siblings": [
+        0
+      ],
+      "parents": [],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [
+        {
+          "id": 0,
+          "identifier": "css /home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss 0",
+          "name": "css ../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+          "index": 2,
+          "index2": 0,
+          "size": 12611,
+          "built": false,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            1
+          ],
+          "issuer": "/home/virk/Desktop/Escape/node_modules/mini-css-extract-plugin/dist/loader.js!/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+          "issuerId": "WMMs",
+          "issuerName": "./styles/main.scss",
+          "issuerPath": [
+            {
+              "id": "IhKj",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/babel-loader/lib/index.js??ref--7!/home/virk/Desktop/Escape/node_modules/eslint-loader/index.js??ref--5!/home/virk/Desktop/Escape/app/scripts/index.js",
+              "name": "./scripts/index.js"
+            },
+            {
+              "id": "WMMs",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/mini-css-extract-plugin/dist/loader.js!/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "name": "./styles/main.scss"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": "WMMs",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/mini-css-extract-plugin/dist/loader.js!/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "module": "./styles/main.scss",
+              "moduleName": "./styles/main.scss"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 2
+        },
+        {
+          "id": "IhKj",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/babel-loader/lib/index.js??ref--7!/home/virk/Desktop/Escape/node_modules/eslint-loader/index.js??ref--5!/home/virk/Desktop/Escape/app/scripts/index.js",
+          "name": "./scripts/index.js",
+          "index": 0,
+          "index2": 2,
+          "size": 104,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            1
+          ],
+          "issuer": null,
+          "issuerId": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": null,
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "type": "single entry",
+              "userRequest": "/home/virk/Desktop/Escape/app/scripts",
+              "loc": "main"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is an entry point"
+          ],
+          "depth": 0,
+          "source": "import '../styles/main.scss';\n\nif (process.env.NODE_ENV !== 'production') {\n  require('../index.pug');\n}"
+        },
+        {
+          "id": "WMMs",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/mini-css-extract-plugin/dist/loader.js!/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+          "name": "./styles/main.scss",
+          "index": 1,
+          "index2": 1,
+          "size": 39,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            1
+          ],
+          "issuer": "/home/virk/Desktop/Escape/node_modules/babel-loader/lib/index.js??ref--7!/home/virk/Desktop/Escape/node_modules/eslint-loader/index.js??ref--5!/home/virk/Desktop/Escape/app/scripts/index.js",
+          "issuerId": "IhKj",
+          "issuerName": "./scripts/index.js",
+          "issuerPath": [
+            {
+              "id": "IhKj",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/babel-loader/lib/index.js??ref--7!/home/virk/Desktop/Escape/node_modules/eslint-loader/index.js??ref--5!/home/virk/Desktop/Escape/app/scripts/index.js",
+              "name": "./scripts/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": "IhKj",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/babel-loader/lib/index.js??ref--7!/home/virk/Desktop/Escape/node_modules/eslint-loader/index.js??ref--5!/home/virk/Desktop/Escape/app/scripts/index.js",
+              "module": "./scripts/index.js",
+              "moduleName": "./scripts/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "../styles/main.scss",
+              "loc": "1:0-29"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "// extracted by mini-css-extract-plugin"
+        }
+      ],
+      "filteredModules": 0,
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "main",
+          "request": "/home/virk/Desktop/Escape/app/scripts",
+          "reasons": []
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "id": 0,
+      "identifier": "css /home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss 0",
+      "name": "css ../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+      "index": 2,
+      "index2": 0,
+      "size": 12611,
+      "built": false,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        1
+      ],
+      "issuer": "/home/virk/Desktop/Escape/node_modules/mini-css-extract-plugin/dist/loader.js!/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+      "issuerId": "WMMs",
+      "issuerName": "./styles/main.scss",
+      "issuerPath": [
+        {
+          "id": "IhKj",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/babel-loader/lib/index.js??ref--7!/home/virk/Desktop/Escape/node_modules/eslint-loader/index.js??ref--5!/home/virk/Desktop/Escape/app/scripts/index.js",
+          "name": "./scripts/index.js"
+        },
+        {
+          "id": "WMMs",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/mini-css-extract-plugin/dist/loader.js!/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+          "name": "./styles/main.scss"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": "WMMs",
+          "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/mini-css-extract-plugin/dist/loader.js!/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+          "module": "./styles/main.scss",
+          "moduleName": "./styles/main.scss"
+        }
+      ],
+      "usedExports": true,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 2
+    },
+    {
+      "id": "IhKj",
+      "identifier": "/home/virk/Desktop/Escape/node_modules/babel-loader/lib/index.js??ref--7!/home/virk/Desktop/Escape/node_modules/eslint-loader/index.js??ref--5!/home/virk/Desktop/Escape/app/scripts/index.js",
+      "name": "./scripts/index.js",
+      "index": 0,
+      "index2": 2,
+      "size": 104,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        1
+      ],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": null,
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "type": "single entry",
+          "userRequest": "/home/virk/Desktop/Escape/app/scripts",
+          "loc": "main"
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is an entry point"
+      ],
+      "depth": 0,
+      "source": "import '../styles/main.scss';\n\nif (process.env.NODE_ENV !== 'production') {\n  require('../index.pug');\n}"
+    },
+    {
+      "id": "WMMs",
+      "identifier": "/home/virk/Desktop/Escape/node_modules/mini-css-extract-plugin/dist/loader.js!/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+      "name": "./styles/main.scss",
+      "index": 1,
+      "index2": 1,
+      "size": 39,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        1
+      ],
+      "issuer": "/home/virk/Desktop/Escape/node_modules/babel-loader/lib/index.js??ref--7!/home/virk/Desktop/Escape/node_modules/eslint-loader/index.js??ref--5!/home/virk/Desktop/Escape/app/scripts/index.js",
+      "issuerId": "IhKj",
+      "issuerName": "./scripts/index.js",
+      "issuerPath": [
+        {
+          "id": "IhKj",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/babel-loader/lib/index.js??ref--7!/home/virk/Desktop/Escape/node_modules/eslint-loader/index.js??ref--5!/home/virk/Desktop/Escape/app/scripts/index.js",
+          "name": "./scripts/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": "IhKj",
+          "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/babel-loader/lib/index.js??ref--7!/home/virk/Desktop/Escape/node_modules/eslint-loader/index.js??ref--5!/home/virk/Desktop/Escape/app/scripts/index.js",
+          "module": "./scripts/index.js",
+          "moduleName": "./scripts/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "../styles/main.scss",
+          "loc": "1:0-29"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "// extracted by mini-css-extract-plugin"
+    }
+  ],
+  "filteredModules": 0,
+  "children": [
+    {
+      "errors": [],
+      "warnings": [
+        "./images/logo.png\n(Emitted value instead of an instance of Error) DEPRECATED. Configure mozjpeg's progressive option in its own options. (mozjpeg.progressive)\nNonErrorEmittedError: (Emitted value instead of an instance of Error) DEPRECATED. Configure mozjpeg's progressive option in its own options. (mozjpeg.progressive)\n    at Object.emitWarning (/home/virk/Desktop/Escape/node_modules/webpack/lib/NormalModule.js:157:16)\n    at Object.module.exports (/home/virk/Desktop/Escape/node_modules/image-webpack-loader/index.js:48:10)\n @ ../node_modules/html-webpack-plugin/lib/loader.js!./index.pug 1:408-436"
+      ],
+      "publicPath": "/",
+      "outputPath": "/home/virk/Desktop/Escape/build",
+      "assetsByChunkName": {},
+      "assets": [
+        {
+          "name": "index.html",
+          "size": 5352,
+          "chunks": [
+            0
+          ],
+          "chunkNames": []
+        }
+      ],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "undefined": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "index.html"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "undefined": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "index.html"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "chunks": [
+        {
+          "id": 0,
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "size": 2548,
+          "names": [],
+          "files": [
+            "index.html"
+          ],
+          "hash": "113fff4ce3be3b2c4fd6",
+          "siblings": [],
+          "parents": [],
+          "children": [],
+          "childrenByOrder": {},
+          "modules": [
+            {
+              "id": "Cc5c",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/url-loader/dist/cjs.js??ref--9!/home/virk/Desktop/Escape/node_modules/image-webpack-loader/index.js??ref--10!/home/virk/Desktop/Escape/app/images/logo.png",
+              "name": "./images/logo.png",
+              "index": 1,
+              "index2": 0,
+              "size": 1073,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "/home/virk/Desktop/Escape/node_modules/html-webpack-plugin/lib/loader.js!/home/virk/Desktop/Escape/node_modules/html-loader/index.js!/home/virk/Desktop/Escape/node_modules/pug-html-loader/lib/index.js!/home/virk/Desktop/Escape/app/index.pug",
+              "issuerId": "hsVj",
+              "issuerName": "../node_modules/html-webpack-plugin/lib/loader.js!./index.pug",
+              "issuerPath": [
+                {
+                  "id": "hsVj",
+                  "identifier": "/home/virk/Desktop/Escape/node_modules/html-webpack-plugin/lib/loader.js!/home/virk/Desktop/Escape/node_modules/html-loader/index.js!/home/virk/Desktop/Escape/node_modules/pug-html-loader/lib/index.js!/home/virk/Desktop/Escape/app/index.pug",
+                  "name": "../node_modules/html-webpack-plugin/lib/loader.js!./index.pug"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 1,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": "hsVj",
+                  "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/html-webpack-plugin/lib/loader.js!/home/virk/Desktop/Escape/node_modules/html-loader/index.js!/home/virk/Desktop/Escape/node_modules/pug-html-loader/lib/index.js!/home/virk/Desktop/Escape/app/index.pug",
+                  "module": "../node_modules/html-webpack-plugin/lib/loader.js!./index.pug",
+                  "moduleName": "../node_modules/html-webpack-plugin/lib/loader.js!./index.pug",
+                  "type": "cjs require",
+                  "userRequest": "./images/logo.png",
+                  "loc": "1:408-436"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1,
+              "source": "module.exports = \"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAAdCAMAAABPJHTqAAAAM1BMVEVMaXH////////////////////////////////////////////////////////////////x7/yuAAAAEHRSTlMA0GAgMEAQgPDAoFCQcLDg3QnREgAAAnJJREFUSMfNl0mi2yAMQJmMABvD/U/bWCAQBPv/dtFEq0BAemhMhPhJ7Ca+RfYz5++g2YPLL/kCEnOkiyQ4/2kSDUiSpXIZPksSZS4S9OvT/uxABbBptrFFAKXHA/CPaWfVWUmyU/aisv3LIzdxaM/4svJkfU91o96iA06VNT0zhXJj7xrfXt1JXiEyyCLZ155dvR5rXGMzk+6ENNpNpthrcAOYRlgUT5VDCCQLDzBsXdKcKQiTK9MEk529hTEHJ0HugJ/UPYzmN8zkdMejQgc4DGpewOgj5UGuHCgsWc8wJ1wSr1zFA9HIQXUQGrXZatsBSHIlbZxkHG9I1Ah2KJ6BEdgDOUxihYOarDCUsVAhIiVNjffWkoa046voRnuv8TNJdtcbVF2cYuWZko22HD+0qaUL1LCjMoLZ3loUljCyenoBc1rGkqNY5kyxFSiqMwzJEuYtTMyQHlMXN9VQNAuYsm0lq707mGOGWSdwqyXVrCR8cu8f45T0b4zgeCUvYfJREhieS5t1meqeYCcWv4aRtnds2fHWMNza5JgOU7tmd0/t2YxlmpJ+vGWCxCBIChTBmCTD/gjjzq0HVj1MpzT12VuYsy6BfAg1twMV7BJGssH6A4wduo69yRkclKFU9tlSOGLaQWjZtoTh3obbQRkvYstrXYo7mMtnKs+Dc75a20n8FcycEjjYN5/Hir0dlHKai/zA/tj0fgOTCw79KpmjOcP0kAaxbDzVhmkN7O9g6pNUepuSVxigSaQfQK/Sk6HlucVBR7Ui9jr/drpAG+181wiL/AQ65Yah+N/FD4F54RwfhXHqa/4++qknf1TUh1n+AJtDVdk2sTjZAAAAAElFTkSuQmCC\""
+            },
+            {
+              "id": "hsVj",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/html-webpack-plugin/lib/loader.js!/home/virk/Desktop/Escape/node_modules/html-loader/index.js!/home/virk/Desktop/Escape/node_modules/pug-html-loader/lib/index.js!/home/virk/Desktop/Escape/app/index.pug",
+              "name": "../node_modules/html-webpack-plugin/lib/loader.js!./index.pug",
+              "index": 0,
+              "index2": 1,
+              "size": 1475,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": null,
+              "issuerId": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "type": "single entry",
+                  "userRequest": "/home/virk/Desktop/Escape/node_modules/html-webpack-plugin/lib/loader.js!/home/virk/Desktop/Escape/app/index.pug"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 0,
+              "source": "module.exports = \"<!DOCTYPE html><html lang=\\\"en\\\"><head><meta charset=\\\"UTF-8\\\"><meta name=\\\"viewport\\\" content=\\\"width=device-width, initial-scale=1.0\\\"><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"ie=edge\\\"><title>Escape</title></head><body><div class=\\\"header\\\"><div class=\\\"content\\\"><div class=\\\"navbar\\\"><div class=\\\"logo\\\"><a class=\\\"logo-link\\\" href=\\\"#\\\"><img class=\\\"logo-link-image\\\" src=\\\"\" + require(\"./images/logo.png\") + \"\\\"></a></div><nav class=\\\"menu\\\"><a class=\\\"menu-item\\\" href=\\\"#\\\">Home</a><a class=\\\"menu-item\\\" href=\\\"#\\\">Services</a><a class=\\\"menu-item\\\" href=\\\"#\\\">Clients</a><a class=\\\"menu-item\\\" href=\\\"#\\\">Team</a><a class=\\\"menu-item\\\" href=\\\"#\\\">Contact</a></nav><div class=\\\"wrapper-menu\\\"><input type=\\\"checkbox\\\" id=\\\"check-menu\\\"><label for=\\\"check-menu\\\"></label><div class=\\\"burger-line first\\\"></div><div class=\\\"burger-line second\\\"></div><div class=\\\"burger-line third\\\"></div><div class=\\\"burger-line fourth\\\"></div><nav class=\\\"main-menu\\\"><a class=\\\"main-menu-item\\\" href=\\\"#\\\">Home</a><a class=\\\"main-menu-item\\\" href=\\\"#\\\">Services</a><a class=\\\"main-menu-item\\\" href=\\\"#\\\">Clients</a><a class=\\\"main-menu-item\\\" href=\\\"#\\\">Team</a><a class=\\\"main-menu-item\\\" href=\\\"#\\\">Contact</a></nav></div></div><div class=\\\"container\\\"><p class=\\\"header-text\\\">Can you build the website of my dreams?</p><div class=\\\"header-title\\\">Yup, we can do that.</div><button class=\\\"button\\\">Learn More</button></div></div></div></body></html>\";"
+            }
+          ],
+          "filteredModules": 0,
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "",
+              "request": "/home/virk/Desktop/Escape/node_modules/html-webpack-plugin/lib/loader.js!/home/virk/Desktop/Escape/app/index.pug",
+              "reasons": []
+            }
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "id": "Cc5c",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/url-loader/dist/cjs.js??ref--9!/home/virk/Desktop/Escape/node_modules/image-webpack-loader/index.js??ref--10!/home/virk/Desktop/Escape/app/images/logo.png",
+          "name": "./images/logo.png",
+          "index": 1,
+          "index2": 0,
+          "size": 1073,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/home/virk/Desktop/Escape/node_modules/html-webpack-plugin/lib/loader.js!/home/virk/Desktop/Escape/node_modules/html-loader/index.js!/home/virk/Desktop/Escape/node_modules/pug-html-loader/lib/index.js!/home/virk/Desktop/Escape/app/index.pug",
+          "issuerId": "hsVj",
+          "issuerName": "../node_modules/html-webpack-plugin/lib/loader.js!./index.pug",
+          "issuerPath": [
+            {
+              "id": "hsVj",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/html-webpack-plugin/lib/loader.js!/home/virk/Desktop/Escape/node_modules/html-loader/index.js!/home/virk/Desktop/Escape/node_modules/pug-html-loader/lib/index.js!/home/virk/Desktop/Escape/app/index.pug",
+              "name": "../node_modules/html-webpack-plugin/lib/loader.js!./index.pug"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 1,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": "hsVj",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/html-webpack-plugin/lib/loader.js!/home/virk/Desktop/Escape/node_modules/html-loader/index.js!/home/virk/Desktop/Escape/node_modules/pug-html-loader/lib/index.js!/home/virk/Desktop/Escape/app/index.pug",
+              "module": "../node_modules/html-webpack-plugin/lib/loader.js!./index.pug",
+              "moduleName": "../node_modules/html-webpack-plugin/lib/loader.js!./index.pug",
+              "type": "cjs require",
+              "userRequest": "./images/logo.png",
+              "loc": "1:408-436"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "module.exports = \"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAAdCAMAAABPJHTqAAAAM1BMVEVMaXH////////////////////////////////////////////////////////////////x7/yuAAAAEHRSTlMA0GAgMEAQgPDAoFCQcLDg3QnREgAAAnJJREFUSMfNl0mi2yAMQJmMABvD/U/bWCAQBPv/dtFEq0BAemhMhPhJ7Ca+RfYz5++g2YPLL/kCEnOkiyQ4/2kSDUiSpXIZPksSZS4S9OvT/uxABbBptrFFAKXHA/CPaWfVWUmyU/aisv3LIzdxaM/4svJkfU91o96iA06VNT0zhXJj7xrfXt1JXiEyyCLZ155dvR5rXGMzk+6ENNpNpthrcAOYRlgUT5VDCCQLDzBsXdKcKQiTK9MEk529hTEHJ0HugJ/UPYzmN8zkdMejQgc4DGpewOgj5UGuHCgsWc8wJ1wSr1zFA9HIQXUQGrXZatsBSHIlbZxkHG9I1Ah2KJ6BEdgDOUxihYOarDCUsVAhIiVNjffWkoa046voRnuv8TNJdtcbVF2cYuWZko22HD+0qaUL1LCjMoLZ3loUljCyenoBc1rGkqNY5kyxFSiqMwzJEuYtTMyQHlMXN9VQNAuYsm0lq707mGOGWSdwqyXVrCR8cu8f45T0b4zgeCUvYfJREhieS5t1meqeYCcWv4aRtnds2fHWMNza5JgOU7tmd0/t2YxlmpJ+vGWCxCBIChTBmCTD/gjjzq0HVj1MpzT12VuYsy6BfAg1twMV7BJGssH6A4wduo69yRkclKFU9tlSOGLaQWjZtoTh3obbQRkvYstrXYo7mMtnKs+Dc75a20n8FcycEjjYN5/Hir0dlHKai/zA/tj0fgOTCw79KpmjOcP0kAaxbDzVhmkN7O9g6pNUepuSVxigSaQfQK/Sk6HlucVBR7Ui9jr/drpAG+181wiL/AQ65Yah+N/FD4F54RwfhXHqa/4++qknf1TUh1n+AJtDVdk2sTjZAAAAAElFTkSuQmCC\""
+        },
+        {
+          "id": "hsVj",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/html-webpack-plugin/lib/loader.js!/home/virk/Desktop/Escape/node_modules/html-loader/index.js!/home/virk/Desktop/Escape/node_modules/pug-html-loader/lib/index.js!/home/virk/Desktop/Escape/app/index.pug",
+          "name": "../node_modules/html-webpack-plugin/lib/loader.js!./index.pug",
+          "index": 0,
+          "index2": 1,
+          "size": 1475,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": null,
+          "issuerId": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": null,
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "type": "single entry",
+              "userRequest": "/home/virk/Desktop/Escape/node_modules/html-webpack-plugin/lib/loader.js!/home/virk/Desktop/Escape/app/index.pug"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0,
+          "source": "module.exports = \"<!DOCTYPE html><html lang=\\\"en\\\"><head><meta charset=\\\"UTF-8\\\"><meta name=\\\"viewport\\\" content=\\\"width=device-width, initial-scale=1.0\\\"><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"ie=edge\\\"><title>Escape</title></head><body><div class=\\\"header\\\"><div class=\\\"content\\\"><div class=\\\"navbar\\\"><div class=\\\"logo\\\"><a class=\\\"logo-link\\\" href=\\\"#\\\"><img class=\\\"logo-link-image\\\" src=\\\"\" + require(\"./images/logo.png\") + \"\\\"></a></div><nav class=\\\"menu\\\"><a class=\\\"menu-item\\\" href=\\\"#\\\">Home</a><a class=\\\"menu-item\\\" href=\\\"#\\\">Services</a><a class=\\\"menu-item\\\" href=\\\"#\\\">Clients</a><a class=\\\"menu-item\\\" href=\\\"#\\\">Team</a><a class=\\\"menu-item\\\" href=\\\"#\\\">Contact</a></nav><div class=\\\"wrapper-menu\\\"><input type=\\\"checkbox\\\" id=\\\"check-menu\\\"><label for=\\\"check-menu\\\"></label><div class=\\\"burger-line first\\\"></div><div class=\\\"burger-line second\\\"></div><div class=\\\"burger-line third\\\"></div><div class=\\\"burger-line fourth\\\"></div><nav class=\\\"main-menu\\\"><a class=\\\"main-menu-item\\\" href=\\\"#\\\">Home</a><a class=\\\"main-menu-item\\\" href=\\\"#\\\">Services</a><a class=\\\"main-menu-item\\\" href=\\\"#\\\">Clients</a><a class=\\\"main-menu-item\\\" href=\\\"#\\\">Team</a><a class=\\\"main-menu-item\\\" href=\\\"#\\\">Contact</a></nav></div></div><div class=\\\"container\\\"><p class=\\\"header-text\\\">Can you build the website of my dreams?</p><div class=\\\"header-title\\\">Yup, we can do that.</div><button class=\\\"button\\\">Learn More</button></div></div></div></body></html>\";"
+        }
+      ],
+      "filteredModules": 0,
+      "children": [],
+      "name": "html-webpack-plugin for \"index.html\""
+    },
+    {
+      "errors": [],
+      "warnings": [
+        "./images/background.png\n(Emitted value instead of an instance of Error) DEPRECATED. Configure mozjpeg's progressive option in its own options. (mozjpeg.progressive)\nNonErrorEmittedError: (Emitted value instead of an instance of Error) DEPRECATED. Configure mozjpeg's progressive option in its own options. (mozjpeg.progressive)\n    at Object.emitWarning (/home/virk/Desktop/Escape/node_modules/webpack/lib/NormalModule.js:157:16)\n    at Object.module.exports (/home/virk/Desktop/Escape/node_modules/image-webpack-loader/index.js:48:10)\n @ ../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss 7:10336-10371"
+      ],
+      "publicPath": "/",
+      "outputPath": "/home/virk/Desktop/Escape/build",
+      "assetsByChunkName": {},
+      "assets": [
+        {
+          "name": "fonts/BrandonGrotesque-Regular.013a89eb.woff",
+          "size": 43108,
+          "chunks": [],
+          "chunkNames": []
+        },
+        {
+          "name": "fonts/BrandonGrotesque-Bold.25ca70ac.eot",
+          "size": 104890,
+          "chunks": [],
+          "chunkNames": []
+        },
+        {
+          "name": "fonts/BrandonGrotesque-Light.152bdc29.woff",
+          "size": 42968,
+          "chunks": [],
+          "chunkNames": []
+        },
+        {
+          "name": "fonts/BrandonGrotesque-Light.e4fcb109.ttf",
+          "size": 101428,
+          "chunks": [],
+          "chunkNames": []
+        },
+        {
+          "name": "fonts/BrandonGrotesque-Regular.065b98c6.eot",
+          "size": 105778,
+          "chunks": [],
+          "chunkNames": []
+        },
+        {
+          "name": "fonts/BrandonGrotesque-Bold.0b59275f.ttf",
+          "size": 104660,
+          "chunks": [],
+          "chunkNames": []
+        },
+        {
+          "name": "fonts/BrandonGrotesque-Light.9e65c2c4.eot",
+          "size": 101662,
+          "chunks": [],
+          "chunkNames": []
+        },
+        {
+          "name": "fonts/BrandonGrotesque-Medium.ef4fddb0.ttf",
+          "size": 105596,
+          "chunks": [],
+          "chunkNames": []
+        },
+        {
+          "name": "fonts/BrandonGrotesque-Medium.a24bfe8e.eot",
+          "size": 105834,
+          "chunks": [],
+          "chunkNames": []
+        },
+        {
+          "name": "fonts/BrandonGrotesque-Medium.920c11f3.woff",
+          "size": 44840,
+          "chunks": [],
+          "chunkNames": []
+        },
+        {
+          "name": "fonts/BrandonGrotesque-Regular.aba7d125.ttf",
+          "size": 105536,
+          "chunks": [],
+          "chunkNames": []
+        },
+        {
+          "name": "fonts/BrandonGrotesque-Bold.1ad8d40b.woff",
+          "size": 44308,
+          "chunks": [],
+          "chunkNames": []
+        },
+        {
+          "name": "images/background.8854ab38.png",
+          "size": 4775410,
+          "chunks": [],
+          "chunkNames": []
+        }
+      ],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "chunks": [
+        {
+          "id": 0,
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "size": 17639,
+          "names": [
+            "mini-css-extract-plugin"
+          ],
+          "files": [
+            "*"
+          ],
+          "hash": "2d8f0290ce818a881fd1",
+          "siblings": [],
+          "parents": [],
+          "children": [],
+          "childrenByOrder": {},
+          "modules": [
+            {
+              "id": "3Nkj",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Bold.eot",
+              "name": "./fonts/BrandonGrotesque-Bold.eot",
+              "index": 3,
+              "index2": 2,
+              "size": 86,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "issuerId": "3zax",
+              "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "issuerPath": [
+                {
+                  "id": "3zax",
+                  "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [
+                "fonts/BrandonGrotesque-Bold.25ca70ac.eot"
+              ],
+              "reasons": [
+                {
+                  "moduleId": "3zax",
+                  "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "type": "cjs require",
+                  "userRequest": "../fonts/BrandonGrotesque-Bold.eot",
+                  "loc": "7:99-144"
+                },
+                {
+                  "moduleId": "3zax",
+                  "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "type": "cjs require",
+                  "userRequest": "../fonts/BrandonGrotesque-Bold.eot",
+                  "loc": "7:244-289"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1,
+              "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Bold.25ca70ac.eot\";"
+            },
+            {
+              "id": "3zax",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "index": 0,
+              "index2": 15,
+              "size": 13801,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": null,
+              "issuerId": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "type": "single entry",
+                  "userRequest": "!!/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "loc": "mini-css-extract-plugin"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 0,
+              "source": "var escape = require(\"../../node_modules/css-loader/lib/url/escape.js\");\nexports = module.exports = require(\"../../node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.id, \"@font-face {\\n  font-family: 'Brandon Grotesque';\\n  src: url(\" + escape(require(\"../fonts/BrandonGrotesque-Bold.eot\")) + \");\\n  src: local(\\\"Brandon Grotesque Bold\\\"), local(\\\"BrandonGrotesque-Bold\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Bold.eot\")) + \"?#iefix) format(\\\"embedded-opentype\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Bold.woff\")) + \") format(\\\"woff\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Bold.ttf\")) + \") format(\\\"truetype\\\");\\n  font-weight: bold;\\n  font-style: normal; }\\n\\n@font-face {\\n  font-family: 'Brandon Grotesque';\\n  src: url(\" + escape(require(\"../fonts/BrandonGrotesque-Light.eot\")) + \");\\n  src: local(\\\"Brandon Grotesque Light\\\"), local(\\\"BrandonGrotesque-Light\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Light.eot\")) + \"?#iefix) format(\\\"embedded-opentype\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Light.woff\")) + \") format(\\\"woff\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Light.ttf\")) + \") format(\\\"truetype\\\");\\n  font-weight: 300;\\n  font-style: normal; }\\n\\n@font-face {\\n  font-family: 'Brandon Grotesque';\\n  src: url(\" + escape(require(\"../fonts/BrandonGrotesque-Medium.eot\")) + \");\\n  src: local(\\\"Brandon Grotesque Medium\\\"), local(\\\"BrandonGrotesque-Medium\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Medium.eot\")) + \"?#iefix) format(\\\"embedded-opentype\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Medium.woff\")) + \") format(\\\"woff\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Medium.ttf\")) + \") format(\\\"truetype\\\");\\n  font-weight: 500;\\n  font-style: normal; }\\n\\n@font-face {\\n  font-family: 'Brandon Grotesque';\\n  src: url(\" + escape(require(\"../fonts/BrandonGrotesque-Regular.eot\")) + \");\\n  src: local(\\\"Brandon Grotesque Regular\\\"), local(\\\"BrandonGrotesque-Regular\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Regular.eot\")) + \"?#iefix) format(\\\"embedded-opentype\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Regular.woff\")) + \") format(\\\"woff\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Regular.ttf\")) + \") format(\\\"truetype\\\");\\n  font-weight: normal;\\n  font-style: normal; }\\n\\n/*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */\\n/* Document\\n   ========================================================================== */\\n/**\\n * 1. Correct the line height in all browsers.\\n * 2. Prevent adjustments of font size after orientation changes in iOS.\\n */\\nhtml {\\n  line-height: 1.15;\\n  /* 1 */\\n  -webkit-text-size-adjust: 100%;\\n  /* 2 */ }\\n\\n/* Sections\\n   ========================================================================== */\\n/**\\n * Remove the margin in all browsers.\\n */\\nbody {\\n  margin: 0;\\n  -webkit-box-sizing: border-box;\\n          box-sizing: border-box; }\\n\\n/**\\n * Correct the font size and margin on `h1` elements within `section` and\\n * `article` contexts in Chrome, Firefox, and Safari.\\n */\\nh1 {\\n  font-size: 2em;\\n  margin: 0.67em 0; }\\n\\n/* Grouping content\\n   ========================================================================== */\\n/**\\n * 1. Add the correct box sizing in Firefox.\\n * 2. Show the overflow in Edge and IE.\\n */\\nhr {\\n  -webkit-box-sizing: content-box;\\n          box-sizing: content-box;\\n  /* 1 */\\n  height: 0;\\n  /* 1 */\\n  overflow: visible;\\n  /* 2 */ }\\n\\n/**\\n * 1. Correct the inheritance and scaling of font size in all browsers.\\n * 2. Correct the odd `em` font sizing in all browsers.\\n */\\npre {\\n  font-family: monospace, monospace;\\n  /* 1 */\\n  font-size: 1em;\\n  /* 2 */ }\\n\\n/* Text-level semantics\\n   ========================================================================== */\\n/**\\n * Remove the gray background on active links in IE 10.\\n */\\na {\\n  background-color: transparent; }\\n\\n/**\\n * 1. Remove the bottom border in Chrome 57-\\n * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.\\n */\\nabbr[title] {\\n  border-bottom: none;\\n  /* 1 */\\n  text-decoration: underline;\\n  /* 2 */\\n  -webkit-text-decoration: underline dotted;\\n          text-decoration: underline dotted;\\n  /* 2 */ }\\n\\n/**\\n * Add the correct font weight in Chrome, Edge, and Safari.\\n */\\nb,\\nstrong {\\n  font-weight: bolder; }\\n\\n/**\\n * 1. Correct the inheritance and scaling of font size in all browsers.\\n * 2. Correct the odd `em` font sizing in all browsers.\\n */\\ncode,\\nkbd,\\nsamp {\\n  font-family: monospace, monospace;\\n  /* 1 */\\n  font-size: 1em;\\n  /* 2 */ }\\n\\n/**\\n * Add the correct font size in all browsers.\\n */\\nsmall {\\n  font-size: 80%; }\\n\\n/**\\n * Prevent `sub` and `sup` elements from affecting the line height in\\n * all browsers.\\n */\\nsub,\\nsup {\\n  font-size: 75%;\\n  line-height: 0;\\n  position: relative;\\n  vertical-align: baseline; }\\n\\nsub {\\n  bottom: -0.25em; }\\n\\nsup {\\n  top: -0.5em; }\\n\\n/* Embedded content\\n   ========================================================================== */\\n/**\\n * Remove the border on images inside links in IE 10.\\n */\\nimg {\\n  border-style: none; }\\n\\n/* Forms\\n   ========================================================================== */\\n/**\\n * 1. Change the font styles in all browsers.\\n * 2. Remove the margin in Firefox and Safari.\\n */\\nbutton,\\ninput,\\noptgroup,\\nselect,\\ntextarea {\\n  font-family: inherit;\\n  /* 1 */\\n  font-size: 100%;\\n  /* 1 */\\n  line-height: 1.15;\\n  /* 1 */\\n  margin: 0;\\n  /* 2 */ }\\n\\n/**\\n * Show the overflow in IE.\\n * 1. Show the overflow in Edge.\\n */\\nbutton,\\ninput {\\n  /* 1 */\\n  overflow: visible; }\\n\\n/**\\n * Remove the inheritance of text transform in Edge, Firefox, and IE.\\n * 1. Remove the inheritance of text transform in Firefox.\\n */\\nbutton,\\nselect {\\n  /* 1 */\\n  text-transform: none; }\\n\\n/**\\n * Correct the inability to style clickable types in iOS and Safari.\\n */\\nbutton,\\n[type=\\\"button\\\"],\\n[type=\\\"reset\\\"],\\n[type=\\\"submit\\\"] {\\n  -webkit-appearance: button; }\\n\\n/**\\n * Remove the inner border and padding in Firefox.\\n */\\nbutton::-moz-focus-inner,\\n[type=\\\"button\\\"]::-moz-focus-inner,\\n[type=\\\"reset\\\"]::-moz-focus-inner,\\n[type=\\\"submit\\\"]::-moz-focus-inner {\\n  border-style: none;\\n  padding: 0; }\\n\\n/**\\n * Restore the focus styles unset by the previous rule.\\n */\\nbutton:-moz-focusring,\\n[type=\\\"button\\\"]:-moz-focusring,\\n[type=\\\"reset\\\"]:-moz-focusring,\\n[type=\\\"submit\\\"]:-moz-focusring {\\n  outline: 1px dotted ButtonText; }\\n\\n/**\\n * Correct the padding in Firefox.\\n */\\nfieldset {\\n  padding: 0.35em 0.75em 0.625em; }\\n\\n/**\\n * 1. Correct the text wrapping in Edge and IE.\\n * 2. Correct the color inheritance from `fieldset` elements in IE.\\n * 3. Remove the padding so developers are not caught out when they zero out\\n *    `fieldset` elements in all browsers.\\n */\\nlegend {\\n  -webkit-box-sizing: border-box;\\n          box-sizing: border-box;\\n  /* 1 */\\n  color: inherit;\\n  /* 2 */\\n  display: table;\\n  /* 1 */\\n  max-width: 100%;\\n  /* 1 */\\n  padding: 0;\\n  /* 3 */\\n  white-space: normal;\\n  /* 1 */ }\\n\\n/**\\n * Add the correct vertical alignment in Chrome, Firefox, and Opera.\\n */\\nprogress {\\n  vertical-align: baseline; }\\n\\n/**\\n * Remove the default vertical scrollbar in IE 10+.\\n */\\ntextarea {\\n  overflow: auto; }\\n\\n/**\\n * 1. Add the correct box sizing in IE 10.\\n * 2. Remove the padding in IE 10.\\n */\\n[type=\\\"checkbox\\\"],\\n[type=\\\"radio\\\"] {\\n  -webkit-box-sizing: border-box;\\n          box-sizing: border-box;\\n  /* 1 */\\n  padding: 0;\\n  /* 2 */ }\\n\\n/**\\n * Correct the cursor style of increment and decrement buttons in Chrome.\\n */\\n[type=\\\"number\\\"]::-webkit-inner-spin-button,\\n[type=\\\"number\\\"]::-webkit-outer-spin-button {\\n  height: auto; }\\n\\n/**\\n * 1. Correct the odd appearance in Chrome and Safari.\\n * 2. Correct the outline style in Safari.\\n */\\n[type=\\\"search\\\"] {\\n  -webkit-appearance: textfield;\\n  /* 1 */\\n  outline-offset: -2px;\\n  /* 2 */ }\\n\\n/**\\n * Remove the inner padding in Chrome and Safari on macOS.\\n */\\n[type=\\\"search\\\"]::-webkit-search-decoration {\\n  -webkit-appearance: none; }\\n\\n/**\\n * 1. Correct the inability to style clickable types in iOS and Safari.\\n * 2. Change font properties to `inherit` in Safari.\\n */\\n::-webkit-file-upload-button {\\n  -webkit-appearance: button;\\n  /* 1 */\\n  font: inherit;\\n  /* 2 */ }\\n\\n/* Interactive\\n   ========================================================================== */\\n/*\\n * Add the correct display in Edge, IE 10+, and Firefox.\\n */\\ndetails {\\n  display: block; }\\n\\n/*\\n * Add the correct display in all browsers.\\n */\\nsummary {\\n  display: list-item; }\\n\\n/* Misc\\n   ========================================================================== */\\n/**\\n * Add the correct display in IE 10+.\\n */\\ntemplate {\\n  display: none; }\\n\\n/**\\n * Add the correct display in IE 10.\\n */\\n[hidden] {\\n  display: none; }\\n\\n/* http://meyerweb.com/eric/tools/css/reset/\\n   v2.0 | 20110126\\n   License: none (public domain)\\n*/\\n* {\\n  margin: 0;\\n  padding: 0;\\n  -webkit-box-sizing: border-box;\\n          box-sizing: border-box; }\\n\\nhtml, body, div, span, applet, object, iframe,\\nh1, h2, h3, h4, h5, h6, p, blockquote, pre,\\na, abbr, acronym, address, big, cite, code,\\ndel, dfn, em, img, ins, kbd, q, s, samp,\\nsmall, strike, strong, sub, sup, tt, var,\\nb, u, i, center,\\ndl, dt, dd, ol, ul, li,\\nfieldset, form, label, legend,\\ntable, caption, tbody, tfoot, thead, tr, th, td,\\narticle, aside, canvas, details, embed,\\nfigure, figcaption, footer, header, hgroup,\\nmenu, nav, output, ruby, section, summary,\\ntime, mark, audio, video {\\n  margin: 0;\\n  padding: 0;\\n  border: 0;\\n  font-size: 100%;\\n  font: inherit;\\n  vertical-align: baseline; }\\n\\n/* HTML5 display-role reset for older browsers */\\narticle, aside, details, figcaption, figure,\\nfooter, header, hgroup, menu, nav, section {\\n  display: block; }\\n\\nbody {\\n  line-height: 1; }\\n\\nol, ul {\\n  list-style: none; }\\n\\nblockquote, q {\\n  quotes: none; }\\n\\nblockquote:before, blockquote:after,\\nq:before, q:after {\\n  content: '';\\n  content: none; }\\n\\ntable {\\n  border-collapse: collapse;\\n  border-spacing: 0; }\\n\\nbody {\\n  width: 100%;\\n  font-family: Brandon Grotesque, sans-serif;\\n  font-size: 18px;\\n  color: #777; }\\n\\na {\\n  text-decoration: none; }\\n\\n/* header */\\n.header {\\n  width: 100%;\\n  background-image: url(\" + escape(require(\"../images/background.png\")) + \");\\n  background-repeat: no-repeat;\\n  background-size: cover;\\n  color: #fff; }\\n\\n.content {\\n  width: 100%;\\n  max-width: 960px;\\n  margin: 0 auto;\\n  padding: 0 10px; }\\n\\n.navbar {\\n  display: -webkit-box;\\n  display: -ms-flexbox;\\n  display: flex;\\n  -webkit-box-pack: justify;\\n      -ms-flex-pack: justify;\\n          justify-content: space-between;\\n  padding-top: 44px; }\\n\\n.logo-link-image:hover {\\n  opacity: .5;\\n  -webkit-transition: .6s;\\n  transition: .6s; }\\n\\n.menu {\\n  line-height: 1.6; }\\n\\n.wrapper-menu {\\n  display: none; }\\n\\n.menu-item {\\n  padding-left: 30px;\\n  color: #fff;\\n  font-weight: 500; }\\n  .menu-item:hover {\\n    color: #777;\\n    -webkit-transition: .6s;\\n    transition: .6s; }\\n\\n.container {\\n  padding: 146px 0 125px 0;\\n  text-align: center; }\\n\\n.header-text {\\n  font-size: 32px;\\n  letter-spacing: -.8px;\\n  font-weight: 300;\\n  padding-bottom: 38px; }\\n\\n.header-title {\\n  font-size: 66px;\\n  letter-spacing: -1.2px;\\n  font-weight: bold;\\n  text-transform: uppercase;\\n  padding-bottom: 71px; }\\n\\n.button {\\n  font-size: 23px;\\n  font-weight: bold;\\n  padding: 17px 66px;\\n  color: #fff;\\n  border: #fff 3px solid;\\n  border-radius: 5px;\\n  background: none;\\n  outline: none;\\n  cursor: pointer; }\\n  .button:hover {\\n    background: rgba(0, 0, 0, 0.8);\\n    -webkit-transition: .6s;\\n    transition: .6s; }\\n\\n@media (max-width: 600px) {\\n  .menu {\\n    display: none; }\\n  .wrapper-menu {\\n    display: -webkit-box;\\n    display: -ms-flexbox;\\n    display: flex;\\n    width: 320px;\\n    position: relative;\\n    text-align: center;\\n    height: 40px; }\\n  #check-menu {\\n    display: none; }\\n  label {\\n    display: block;\\n    position: absolute;\\n    top: 0;\\n    left: 0;\\n    width: 100%;\\n    height: 100%;\\n    cursor: pointer;\\n    z-index: 2;\\n    line-height: 40px; }\\n  .burger-line {\\n    position: absolute;\\n    top: 8px;\\n    right: 10px;\\n    width: 35px;\\n    height: 2px;\\n    background-color: #fff;\\n    -webkit-transition: .5s all;\\n    transition: .5s all; }\\n  .second, .third {\\n    top: 18px; }\\n  .fourth {\\n    top: 28px; }\\n  .main-menu {\\n    display: block;\\n    position: absolute;\\n    width: 100%;\\n    bottom: 0;\\n    left: 0;\\n    -webkit-transform: translateY(100%);\\n            transform: translateY(100%);\\n    max-height: 0;\\n    font-size: 0;\\n    overflow: hidden;\\n    -webkit-transition: .5s all;\\n    transition: .5s all;\\n    border-radius: 10px; }\\n  .main-menu-item {\\n    display: block;\\n    width: 100%;\\n    padding: 10px;\\n    color: #fff;\\n    text-decoration: none;\\n    border-top: 1px solid rgba(255, 255, 255, 0.9);\\n    background-color: rgba(0, 0, 0, 0.8); }\\n    .main-menu-item:hover {\\n      color: #777;\\n      -webkit-transition: .6s;\\n      transition: .6s; }\\n  #check-menu:checked ~ .main-menu {\\n    max-height: 500px;\\n    font-size: 16px; }\\n  #check-menu:checked ~ .first {\\n    display: none; }\\n  #check-menu:checked ~ .second {\\n    -webkit-transform: rotate(45deg);\\n            transform: rotate(45deg); }\\n  #check-menu:checked ~ .third {\\n    -webkit-transform: rotate(-45deg);\\n            transform: rotate(-45deg); }\\n  #check-menu:checked ~ .fourth {\\n    display: none; } }\\n\", \"\"]);\n\n// exports\n"
+            },
+            {
+              "id": "ER6q",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/lib/url/escape.js",
+              "name": "../node_modules/css-loader/lib/url/escape.js",
+              "index": 1,
+              "index2": 0,
+              "size": 448,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "issuerId": "3zax",
+              "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "issuerPath": [
+                {
+                  "id": "3zax",
+                  "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": "3zax",
+                  "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "type": "cjs require",
+                  "userRequest": "../../node_modules/css-loader/lib/url/escape.js",
+                  "loc": "1:13-71"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1,
+              "source": "module.exports = function escape(url) {\n    if (typeof url !== 'string') {\n        return url\n    }\n    // If url is already wrapped in quotes, remove them\n    if (/^['\"].*['\"]$/.test(url)) {\n        url = url.slice(1, -1);\n    }\n    // Should url be wrapped?\n    // See https://drafts.csswg.org/css-values-3/#urls\n    if (/[\"'() \\t\\n]/.test(url)) {\n        return '\"' + url.replace(/\"/g, '\\\\\"').replace(/\\n/g, '\\\\n') + '\"'\n    }\n\n    return url\n}\n"
+            },
+            {
+              "id": "EXHV",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Light.eot",
+              "name": "./fonts/BrandonGrotesque-Light.eot",
+              "index": 6,
+              "index2": 5,
+              "size": 87,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "issuerId": "3zax",
+              "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "issuerPath": [
+                {
+                  "id": "3zax",
+                  "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [
+                "fonts/BrandonGrotesque-Light.9e65c2c4.eot"
+              ],
+              "reasons": [
+                {
+                  "moduleId": "3zax",
+                  "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "type": "cjs require",
+                  "userRequest": "../fonts/BrandonGrotesque-Light.eot",
+                  "loc": "7:632-678"
+                },
+                {
+                  "moduleId": "3zax",
+                  "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "type": "cjs require",
+                  "userRequest": "../fonts/BrandonGrotesque-Light.eot",
+                  "loc": "7:780-826"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1,
+              "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Light.9e65c2c4.eot\";"
+            },
+            {
+              "id": "H36O",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Light.woff",
+              "name": "./fonts/BrandonGrotesque-Light.woff",
+              "index": 7,
+              "index2": 6,
+              "size": 88,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "issuerId": "3zax",
+              "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "issuerPath": [
+                {
+                  "id": "3zax",
+                  "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [
+                "fonts/BrandonGrotesque-Light.152bdc29.woff"
+              ],
+              "reasons": [
+                {
+                  "moduleId": "3zax",
+                  "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "type": "cjs require",
+                  "userRequest": "../fonts/BrandonGrotesque-Light.woff",
+                  "loc": "7:886-933"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1,
+              "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Light.152bdc29.woff\";"
+            },
+            {
+              "id": "HD1Y",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Light.ttf",
+              "name": "./fonts/BrandonGrotesque-Light.ttf",
+              "index": 8,
+              "index2": 7,
+              "size": 87,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "issuerId": "3zax",
+              "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "issuerPath": [
+                {
+                  "id": "3zax",
+                  "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [
+                "fonts/BrandonGrotesque-Light.e4fcb109.ttf"
+              ],
+              "reasons": [
+                {
+                  "moduleId": "3zax",
+                  "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "type": "cjs require",
+                  "userRequest": "../fonts/BrandonGrotesque-Light.ttf",
+                  "loc": "7:973-1019"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1,
+              "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Light.e4fcb109.ttf\";"
+            },
+            {
+              "id": "KcD8",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Regular.eot",
+              "name": "./fonts/BrandonGrotesque-Regular.eot",
+              "index": 12,
+              "index2": 11,
+              "size": 89,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "issuerId": "3zax",
+              "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "issuerPath": [
+                {
+                  "id": "3zax",
+                  "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [
+                "fonts/BrandonGrotesque-Regular.065b98c6.eot"
+              ],
+              "reasons": [
+                {
+                  "moduleId": "3zax",
+                  "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "type": "cjs require",
+                  "userRequest": "../fonts/BrandonGrotesque-Regular.eot",
+                  "loc": "7:1714-1762"
+                },
+                {
+                  "moduleId": "3zax",
+                  "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "type": "cjs require",
+                  "userRequest": "../fonts/BrandonGrotesque-Regular.eot",
+                  "loc": "7:1868-1916"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1,
+              "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Regular.065b98c6.eot\";"
+            },
+            {
+              "id": "Qdut",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Bold.ttf",
+              "name": "./fonts/BrandonGrotesque-Bold.ttf",
+              "index": 5,
+              "index2": 4,
+              "size": 86,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "issuerId": "3zax",
+              "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "issuerPath": [
+                {
+                  "id": "3zax",
+                  "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [
+                "fonts/BrandonGrotesque-Bold.0b59275f.ttf"
+              ],
+              "reasons": [
+                {
+                  "moduleId": "3zax",
+                  "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "type": "cjs require",
+                  "userRequest": "../fonts/BrandonGrotesque-Bold.ttf",
+                  "loc": "7:435-480"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1,
+              "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Bold.0b59275f.ttf\";"
+            },
+            {
+              "id": "S0aF",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Regular.woff",
+              "name": "./fonts/BrandonGrotesque-Regular.woff",
+              "index": 13,
+              "index2": 12,
+              "size": 90,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "issuerId": "3zax",
+              "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "issuerPath": [
+                {
+                  "id": "3zax",
+                  "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [
+                "fonts/BrandonGrotesque-Regular.013a89eb.woff"
+              ],
+              "reasons": [
+                {
+                  "moduleId": "3zax",
+                  "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "type": "cjs require",
+                  "userRequest": "../fonts/BrandonGrotesque-Regular.woff",
+                  "loc": "7:1976-2025"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1,
+              "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Regular.013a89eb.woff\";"
+            },
+            {
+              "id": "avaN",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Medium.ttf",
+              "name": "./fonts/BrandonGrotesque-Medium.ttf",
+              "index": 11,
+              "index2": 10,
+              "size": 88,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "issuerId": "3zax",
+              "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "issuerPath": [
+                {
+                  "id": "3zax",
+                  "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [
+                "fonts/BrandonGrotesque-Medium.ef4fddb0.ttf"
+              ],
+              "reasons": [
+                {
+                  "moduleId": "3zax",
+                  "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "type": "cjs require",
+                  "userRequest": "../fonts/BrandonGrotesque-Medium.ttf",
+                  "loc": "7:1516-1563"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1,
+              "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Medium.ef4fddb0.ttf\";"
+            },
+            {
+              "id": "c0tF",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Medium.eot",
+              "name": "./fonts/BrandonGrotesque-Medium.eot",
+              "index": 9,
+              "index2": 8,
+              "size": 88,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "issuerId": "3zax",
+              "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "issuerPath": [
+                {
+                  "id": "3zax",
+                  "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [
+                "fonts/BrandonGrotesque-Medium.a24bfe8e.eot"
+              ],
+              "reasons": [
+                {
+                  "moduleId": "3zax",
+                  "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "type": "cjs require",
+                  "userRequest": "../fonts/BrandonGrotesque-Medium.eot",
+                  "loc": "7:1170-1217"
+                },
+                {
+                  "moduleId": "3zax",
+                  "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "type": "cjs require",
+                  "userRequest": "../fonts/BrandonGrotesque-Medium.eot",
+                  "loc": "7:1321-1368"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1,
+              "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Medium.a24bfe8e.eot\";"
+            },
+            {
+              "id": "e0uS",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/lib/css-base.js",
+              "name": "../node_modules/css-loader/lib/css-base.js",
+              "index": 2,
+              "index2": 1,
+              "size": 2260,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "issuerId": "3zax",
+              "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "issuerPath": [
+                {
+                  "id": "3zax",
+                  "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": "3zax",
+                  "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "type": "cjs require",
+                  "userRequest": "../../node_modules/css-loader/lib/css-base.js",
+                  "loc": "2:27-83"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1,
+              "source": "/*\n\tMIT License http://www.opensource.org/licenses/mit-license.php\n\tAuthor Tobias Koppers @sokra\n*/\n// css base code, injected by the css-loader\nmodule.exports = function(useSourceMap) {\n\tvar list = [];\n\n\t// return the list of modules as css string\n\tlist.toString = function toString() {\n\t\treturn this.map(function (item) {\n\t\t\tvar content = cssWithMappingToString(item, useSourceMap);\n\t\t\tif(item[2]) {\n\t\t\t\treturn \"@media \" + item[2] + \"{\" + content + \"}\";\n\t\t\t} else {\n\t\t\t\treturn content;\n\t\t\t}\n\t\t}).join(\"\");\n\t};\n\n\t// import a list of modules into the list\n\tlist.i = function(modules, mediaQuery) {\n\t\tif(typeof modules === \"string\")\n\t\t\tmodules = [[null, modules, \"\"]];\n\t\tvar alreadyImportedModules = {};\n\t\tfor(var i = 0; i < this.length; i++) {\n\t\t\tvar id = this[i][0];\n\t\t\tif(typeof id === \"number\")\n\t\t\t\talreadyImportedModules[id] = true;\n\t\t}\n\t\tfor(i = 0; i < modules.length; i++) {\n\t\t\tvar item = modules[i];\n\t\t\t// skip already imported module\n\t\t\t// this implementation is not 100% perfect for weird media query combinations\n\t\t\t//  when a module is imported multiple times with different media queries.\n\t\t\t//  I hope this will never occur (Hey this way we have smaller bundles)\n\t\t\tif(typeof item[0] !== \"number\" || !alreadyImportedModules[item[0]]) {\n\t\t\t\tif(mediaQuery && !item[2]) {\n\t\t\t\t\titem[2] = mediaQuery;\n\t\t\t\t} else if(mediaQuery) {\n\t\t\t\t\titem[2] = \"(\" + item[2] + \") and (\" + mediaQuery + \")\";\n\t\t\t\t}\n\t\t\t\tlist.push(item);\n\t\t\t}\n\t\t}\n\t};\n\treturn list;\n};\n\nfunction cssWithMappingToString(item, useSourceMap) {\n\tvar content = item[1] || '';\n\tvar cssMapping = item[3];\n\tif (!cssMapping) {\n\t\treturn content;\n\t}\n\n\tif (useSourceMap && typeof btoa === 'function') {\n\t\tvar sourceMapping = toComment(cssMapping);\n\t\tvar sourceURLs = cssMapping.sources.map(function (source) {\n\t\t\treturn '/*# sourceURL=' + cssMapping.sourceRoot + source + ' */'\n\t\t});\n\n\t\treturn [content].concat(sourceURLs).concat([sourceMapping]).join('\\n');\n\t}\n\n\treturn [content].join('\\n');\n}\n\n// Adapted from convert-source-map (MIT)\nfunction toComment(sourceMap) {\n\t// eslint-disable-next-line no-undef\n\tvar base64 = btoa(unescape(encodeURIComponent(JSON.stringify(sourceMap))));\n\tvar data = 'sourceMappingURL=data:application/json;charset=utf-8;base64,' + base64;\n\n\treturn '/*# ' + data + ' */';\n}\n"
+            },
+            {
+              "id": "hbHt",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Medium.woff",
+              "name": "./fonts/BrandonGrotesque-Medium.woff",
+              "index": 10,
+              "index2": 9,
+              "size": 89,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "issuerId": "3zax",
+              "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "issuerPath": [
+                {
+                  "id": "3zax",
+                  "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [
+                "fonts/BrandonGrotesque-Medium.920c11f3.woff"
+              ],
+              "reasons": [
+                {
+                  "moduleId": "3zax",
+                  "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "type": "cjs require",
+                  "userRequest": "../fonts/BrandonGrotesque-Medium.woff",
+                  "loc": "7:1428-1476"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1,
+              "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Medium.920c11f3.woff\";"
+            },
+            {
+              "id": "pRrE",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Regular.ttf",
+              "name": "./fonts/BrandonGrotesque-Regular.ttf",
+              "index": 14,
+              "index2": 13,
+              "size": 89,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "issuerId": "3zax",
+              "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "issuerPath": [
+                {
+                  "id": "3zax",
+                  "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [
+                "fonts/BrandonGrotesque-Regular.aba7d125.ttf"
+              ],
+              "reasons": [
+                {
+                  "moduleId": "3zax",
+                  "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "type": "cjs require",
+                  "userRequest": "../fonts/BrandonGrotesque-Regular.ttf",
+                  "loc": "7:2065-2113"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1,
+              "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Regular.aba7d125.ttf\";"
+            },
+            {
+              "id": "twa0",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Bold.woff",
+              "name": "./fonts/BrandonGrotesque-Bold.woff",
+              "index": 4,
+              "index2": 3,
+              "size": 87,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "issuerId": "3zax",
+              "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "issuerPath": [
+                {
+                  "id": "3zax",
+                  "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [
+                "fonts/BrandonGrotesque-Bold.1ad8d40b.woff"
+              ],
+              "reasons": [
+                {
+                  "moduleId": "3zax",
+                  "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "type": "cjs require",
+                  "userRequest": "../fonts/BrandonGrotesque-Bold.woff",
+                  "loc": "7:349-395"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1,
+              "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Bold.1ad8d40b.woff\";"
+            },
+            {
+              "id": "velt",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/url-loader/dist/cjs.js??ref--9!/home/virk/Desktop/Escape/node_modules/image-webpack-loader/index.js??ref--10!/home/virk/Desktop/Escape/app/images/background.png",
+              "name": "./images/background.png",
+              "index": 15,
+              "index2": 14,
+              "size": 76,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "issuerId": "3zax",
+              "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "issuerPath": [
+                {
+                  "id": "3zax",
+                  "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 1,
+              "assets": [
+                "images/background.8854ab38.png"
+              ],
+              "reasons": [
+                {
+                  "moduleId": "3zax",
+                  "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+                  "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+                  "type": "cjs require",
+                  "userRequest": "../images/background.png",
+                  "loc": "7:10336-10371"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1,
+              "source": "module.exports = __webpack_public_path__ + \"images/background.8854ab38.png\";"
+            }
+          ],
+          "filteredModules": 0,
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "mini-css-extract-plugin",
+              "request": "!!/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "reasons": []
+            }
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "id": "3Nkj",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Bold.eot",
+          "name": "./fonts/BrandonGrotesque-Bold.eot",
+          "index": 3,
+          "index2": 2,
+          "size": 86,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+          "issuerId": "3zax",
+          "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+          "issuerPath": [
+            {
+              "id": "3zax",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+            "fonts/BrandonGrotesque-Bold.25ca70ac.eot"
+          ],
+          "reasons": [
+            {
+              "moduleId": "3zax",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "type": "cjs require",
+              "userRequest": "../fonts/BrandonGrotesque-Bold.eot",
+              "loc": "7:99-144"
+            },
+            {
+              "moduleId": "3zax",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "type": "cjs require",
+              "userRequest": "../fonts/BrandonGrotesque-Bold.eot",
+              "loc": "7:244-289"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Bold.25ca70ac.eot\";"
+        },
+        {
+          "id": "3zax",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+          "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+          "index": 0,
+          "index2": 15,
+          "size": 13801,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": null,
+          "issuerId": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": null,
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "type": "single entry",
+              "userRequest": "!!/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "loc": "mini-css-extract-plugin"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0,
+          "source": "var escape = require(\"../../node_modules/css-loader/lib/url/escape.js\");\nexports = module.exports = require(\"../../node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.id, \"@font-face {\\n  font-family: 'Brandon Grotesque';\\n  src: url(\" + escape(require(\"../fonts/BrandonGrotesque-Bold.eot\")) + \");\\n  src: local(\\\"Brandon Grotesque Bold\\\"), local(\\\"BrandonGrotesque-Bold\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Bold.eot\")) + \"?#iefix) format(\\\"embedded-opentype\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Bold.woff\")) + \") format(\\\"woff\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Bold.ttf\")) + \") format(\\\"truetype\\\");\\n  font-weight: bold;\\n  font-style: normal; }\\n\\n@font-face {\\n  font-family: 'Brandon Grotesque';\\n  src: url(\" + escape(require(\"../fonts/BrandonGrotesque-Light.eot\")) + \");\\n  src: local(\\\"Brandon Grotesque Light\\\"), local(\\\"BrandonGrotesque-Light\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Light.eot\")) + \"?#iefix) format(\\\"embedded-opentype\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Light.woff\")) + \") format(\\\"woff\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Light.ttf\")) + \") format(\\\"truetype\\\");\\n  font-weight: 300;\\n  font-style: normal; }\\n\\n@font-face {\\n  font-family: 'Brandon Grotesque';\\n  src: url(\" + escape(require(\"../fonts/BrandonGrotesque-Medium.eot\")) + \");\\n  src: local(\\\"Brandon Grotesque Medium\\\"), local(\\\"BrandonGrotesque-Medium\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Medium.eot\")) + \"?#iefix) format(\\\"embedded-opentype\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Medium.woff\")) + \") format(\\\"woff\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Medium.ttf\")) + \") format(\\\"truetype\\\");\\n  font-weight: 500;\\n  font-style: normal; }\\n\\n@font-face {\\n  font-family: 'Brandon Grotesque';\\n  src: url(\" + escape(require(\"../fonts/BrandonGrotesque-Regular.eot\")) + \");\\n  src: local(\\\"Brandon Grotesque Regular\\\"), local(\\\"BrandonGrotesque-Regular\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Regular.eot\")) + \"?#iefix) format(\\\"embedded-opentype\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Regular.woff\")) + \") format(\\\"woff\\\"), url(\" + escape(require(\"../fonts/BrandonGrotesque-Regular.ttf\")) + \") format(\\\"truetype\\\");\\n  font-weight: normal;\\n  font-style: normal; }\\n\\n/*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */\\n/* Document\\n   ========================================================================== */\\n/**\\n * 1. Correct the line height in all browsers.\\n * 2. Prevent adjustments of font size after orientation changes in iOS.\\n */\\nhtml {\\n  line-height: 1.15;\\n  /* 1 */\\n  -webkit-text-size-adjust: 100%;\\n  /* 2 */ }\\n\\n/* Sections\\n   ========================================================================== */\\n/**\\n * Remove the margin in all browsers.\\n */\\nbody {\\n  margin: 0;\\n  -webkit-box-sizing: border-box;\\n          box-sizing: border-box; }\\n\\n/**\\n * Correct the font size and margin on `h1` elements within `section` and\\n * `article` contexts in Chrome, Firefox, and Safari.\\n */\\nh1 {\\n  font-size: 2em;\\n  margin: 0.67em 0; }\\n\\n/* Grouping content\\n   ========================================================================== */\\n/**\\n * 1. Add the correct box sizing in Firefox.\\n * 2. Show the overflow in Edge and IE.\\n */\\nhr {\\n  -webkit-box-sizing: content-box;\\n          box-sizing: content-box;\\n  /* 1 */\\n  height: 0;\\n  /* 1 */\\n  overflow: visible;\\n  /* 2 */ }\\n\\n/**\\n * 1. Correct the inheritance and scaling of font size in all browsers.\\n * 2. Correct the odd `em` font sizing in all browsers.\\n */\\npre {\\n  font-family: monospace, monospace;\\n  /* 1 */\\n  font-size: 1em;\\n  /* 2 */ }\\n\\n/* Text-level semantics\\n   ========================================================================== */\\n/**\\n * Remove the gray background on active links in IE 10.\\n */\\na {\\n  background-color: transparent; }\\n\\n/**\\n * 1. Remove the bottom border in Chrome 57-\\n * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.\\n */\\nabbr[title] {\\n  border-bottom: none;\\n  /* 1 */\\n  text-decoration: underline;\\n  /* 2 */\\n  -webkit-text-decoration: underline dotted;\\n          text-decoration: underline dotted;\\n  /* 2 */ }\\n\\n/**\\n * Add the correct font weight in Chrome, Edge, and Safari.\\n */\\nb,\\nstrong {\\n  font-weight: bolder; }\\n\\n/**\\n * 1. Correct the inheritance and scaling of font size in all browsers.\\n * 2. Correct the odd `em` font sizing in all browsers.\\n */\\ncode,\\nkbd,\\nsamp {\\n  font-family: monospace, monospace;\\n  /* 1 */\\n  font-size: 1em;\\n  /* 2 */ }\\n\\n/**\\n * Add the correct font size in all browsers.\\n */\\nsmall {\\n  font-size: 80%; }\\n\\n/**\\n * Prevent `sub` and `sup` elements from affecting the line height in\\n * all browsers.\\n */\\nsub,\\nsup {\\n  font-size: 75%;\\n  line-height: 0;\\n  position: relative;\\n  vertical-align: baseline; }\\n\\nsub {\\n  bottom: -0.25em; }\\n\\nsup {\\n  top: -0.5em; }\\n\\n/* Embedded content\\n   ========================================================================== */\\n/**\\n * Remove the border on images inside links in IE 10.\\n */\\nimg {\\n  border-style: none; }\\n\\n/* Forms\\n   ========================================================================== */\\n/**\\n * 1. Change the font styles in all browsers.\\n * 2. Remove the margin in Firefox and Safari.\\n */\\nbutton,\\ninput,\\noptgroup,\\nselect,\\ntextarea {\\n  font-family: inherit;\\n  /* 1 */\\n  font-size: 100%;\\n  /* 1 */\\n  line-height: 1.15;\\n  /* 1 */\\n  margin: 0;\\n  /* 2 */ }\\n\\n/**\\n * Show the overflow in IE.\\n * 1. Show the overflow in Edge.\\n */\\nbutton,\\ninput {\\n  /* 1 */\\n  overflow: visible; }\\n\\n/**\\n * Remove the inheritance of text transform in Edge, Firefox, and IE.\\n * 1. Remove the inheritance of text transform in Firefox.\\n */\\nbutton,\\nselect {\\n  /* 1 */\\n  text-transform: none; }\\n\\n/**\\n * Correct the inability to style clickable types in iOS and Safari.\\n */\\nbutton,\\n[type=\\\"button\\\"],\\n[type=\\\"reset\\\"],\\n[type=\\\"submit\\\"] {\\n  -webkit-appearance: button; }\\n\\n/**\\n * Remove the inner border and padding in Firefox.\\n */\\nbutton::-moz-focus-inner,\\n[type=\\\"button\\\"]::-moz-focus-inner,\\n[type=\\\"reset\\\"]::-moz-focus-inner,\\n[type=\\\"submit\\\"]::-moz-focus-inner {\\n  border-style: none;\\n  padding: 0; }\\n\\n/**\\n * Restore the focus styles unset by the previous rule.\\n */\\nbutton:-moz-focusring,\\n[type=\\\"button\\\"]:-moz-focusring,\\n[type=\\\"reset\\\"]:-moz-focusring,\\n[type=\\\"submit\\\"]:-moz-focusring {\\n  outline: 1px dotted ButtonText; }\\n\\n/**\\n * Correct the padding in Firefox.\\n */\\nfieldset {\\n  padding: 0.35em 0.75em 0.625em; }\\n\\n/**\\n * 1. Correct the text wrapping in Edge and IE.\\n * 2. Correct the color inheritance from `fieldset` elements in IE.\\n * 3. Remove the padding so developers are not caught out when they zero out\\n *    `fieldset` elements in all browsers.\\n */\\nlegend {\\n  -webkit-box-sizing: border-box;\\n          box-sizing: border-box;\\n  /* 1 */\\n  color: inherit;\\n  /* 2 */\\n  display: table;\\n  /* 1 */\\n  max-width: 100%;\\n  /* 1 */\\n  padding: 0;\\n  /* 3 */\\n  white-space: normal;\\n  /* 1 */ }\\n\\n/**\\n * Add the correct vertical alignment in Chrome, Firefox, and Opera.\\n */\\nprogress {\\n  vertical-align: baseline; }\\n\\n/**\\n * Remove the default vertical scrollbar in IE 10+.\\n */\\ntextarea {\\n  overflow: auto; }\\n\\n/**\\n * 1. Add the correct box sizing in IE 10.\\n * 2. Remove the padding in IE 10.\\n */\\n[type=\\\"checkbox\\\"],\\n[type=\\\"radio\\\"] {\\n  -webkit-box-sizing: border-box;\\n          box-sizing: border-box;\\n  /* 1 */\\n  padding: 0;\\n  /* 2 */ }\\n\\n/**\\n * Correct the cursor style of increment and decrement buttons in Chrome.\\n */\\n[type=\\\"number\\\"]::-webkit-inner-spin-button,\\n[type=\\\"number\\\"]::-webkit-outer-spin-button {\\n  height: auto; }\\n\\n/**\\n * 1. Correct the odd appearance in Chrome and Safari.\\n * 2. Correct the outline style in Safari.\\n */\\n[type=\\\"search\\\"] {\\n  -webkit-appearance: textfield;\\n  /* 1 */\\n  outline-offset: -2px;\\n  /* 2 */ }\\n\\n/**\\n * Remove the inner padding in Chrome and Safari on macOS.\\n */\\n[type=\\\"search\\\"]::-webkit-search-decoration {\\n  -webkit-appearance: none; }\\n\\n/**\\n * 1. Correct the inability to style clickable types in iOS and Safari.\\n * 2. Change font properties to `inherit` in Safari.\\n */\\n::-webkit-file-upload-button {\\n  -webkit-appearance: button;\\n  /* 1 */\\n  font: inherit;\\n  /* 2 */ }\\n\\n/* Interactive\\n   ========================================================================== */\\n/*\\n * Add the correct display in Edge, IE 10+, and Firefox.\\n */\\ndetails {\\n  display: block; }\\n\\n/*\\n * Add the correct display in all browsers.\\n */\\nsummary {\\n  display: list-item; }\\n\\n/* Misc\\n   ========================================================================== */\\n/**\\n * Add the correct display in IE 10+.\\n */\\ntemplate {\\n  display: none; }\\n\\n/**\\n * Add the correct display in IE 10.\\n */\\n[hidden] {\\n  display: none; }\\n\\n/* http://meyerweb.com/eric/tools/css/reset/\\n   v2.0 | 20110126\\n   License: none (public domain)\\n*/\\n* {\\n  margin: 0;\\n  padding: 0;\\n  -webkit-box-sizing: border-box;\\n          box-sizing: border-box; }\\n\\nhtml, body, div, span, applet, object, iframe,\\nh1, h2, h3, h4, h5, h6, p, blockquote, pre,\\na, abbr, acronym, address, big, cite, code,\\ndel, dfn, em, img, ins, kbd, q, s, samp,\\nsmall, strike, strong, sub, sup, tt, var,\\nb, u, i, center,\\ndl, dt, dd, ol, ul, li,\\nfieldset, form, label, legend,\\ntable, caption, tbody, tfoot, thead, tr, th, td,\\narticle, aside, canvas, details, embed,\\nfigure, figcaption, footer, header, hgroup,\\nmenu, nav, output, ruby, section, summary,\\ntime, mark, audio, video {\\n  margin: 0;\\n  padding: 0;\\n  border: 0;\\n  font-size: 100%;\\n  font: inherit;\\n  vertical-align: baseline; }\\n\\n/* HTML5 display-role reset for older browsers */\\narticle, aside, details, figcaption, figure,\\nfooter, header, hgroup, menu, nav, section {\\n  display: block; }\\n\\nbody {\\n  line-height: 1; }\\n\\nol, ul {\\n  list-style: none; }\\n\\nblockquote, q {\\n  quotes: none; }\\n\\nblockquote:before, blockquote:after,\\nq:before, q:after {\\n  content: '';\\n  content: none; }\\n\\ntable {\\n  border-collapse: collapse;\\n  border-spacing: 0; }\\n\\nbody {\\n  width: 100%;\\n  font-family: Brandon Grotesque, sans-serif;\\n  font-size: 18px;\\n  color: #777; }\\n\\na {\\n  text-decoration: none; }\\n\\n/* header */\\n.header {\\n  width: 100%;\\n  background-image: url(\" + escape(require(\"../images/background.png\")) + \");\\n  background-repeat: no-repeat;\\n  background-size: cover;\\n  color: #fff; }\\n\\n.content {\\n  width: 100%;\\n  max-width: 960px;\\n  margin: 0 auto;\\n  padding: 0 10px; }\\n\\n.navbar {\\n  display: -webkit-box;\\n  display: -ms-flexbox;\\n  display: flex;\\n  -webkit-box-pack: justify;\\n      -ms-flex-pack: justify;\\n          justify-content: space-between;\\n  padding-top: 44px; }\\n\\n.logo-link-image:hover {\\n  opacity: .5;\\n  -webkit-transition: .6s;\\n  transition: .6s; }\\n\\n.menu {\\n  line-height: 1.6; }\\n\\n.wrapper-menu {\\n  display: none; }\\n\\n.menu-item {\\n  padding-left: 30px;\\n  color: #fff;\\n  font-weight: 500; }\\n  .menu-item:hover {\\n    color: #777;\\n    -webkit-transition: .6s;\\n    transition: .6s; }\\n\\n.container {\\n  padding: 146px 0 125px 0;\\n  text-align: center; }\\n\\n.header-text {\\n  font-size: 32px;\\n  letter-spacing: -.8px;\\n  font-weight: 300;\\n  padding-bottom: 38px; }\\n\\n.header-title {\\n  font-size: 66px;\\n  letter-spacing: -1.2px;\\n  font-weight: bold;\\n  text-transform: uppercase;\\n  padding-bottom: 71px; }\\n\\n.button {\\n  font-size: 23px;\\n  font-weight: bold;\\n  padding: 17px 66px;\\n  color: #fff;\\n  border: #fff 3px solid;\\n  border-radius: 5px;\\n  background: none;\\n  outline: none;\\n  cursor: pointer; }\\n  .button:hover {\\n    background: rgba(0, 0, 0, 0.8);\\n    -webkit-transition: .6s;\\n    transition: .6s; }\\n\\n@media (max-width: 600px) {\\n  .menu {\\n    display: none; }\\n  .wrapper-menu {\\n    display: -webkit-box;\\n    display: -ms-flexbox;\\n    display: flex;\\n    width: 320px;\\n    position: relative;\\n    text-align: center;\\n    height: 40px; }\\n  #check-menu {\\n    display: none; }\\n  label {\\n    display: block;\\n    position: absolute;\\n    top: 0;\\n    left: 0;\\n    width: 100%;\\n    height: 100%;\\n    cursor: pointer;\\n    z-index: 2;\\n    line-height: 40px; }\\n  .burger-line {\\n    position: absolute;\\n    top: 8px;\\n    right: 10px;\\n    width: 35px;\\n    height: 2px;\\n    background-color: #fff;\\n    -webkit-transition: .5s all;\\n    transition: .5s all; }\\n  .second, .third {\\n    top: 18px; }\\n  .fourth {\\n    top: 28px; }\\n  .main-menu {\\n    display: block;\\n    position: absolute;\\n    width: 100%;\\n    bottom: 0;\\n    left: 0;\\n    -webkit-transform: translateY(100%);\\n            transform: translateY(100%);\\n    max-height: 0;\\n    font-size: 0;\\n    overflow: hidden;\\n    -webkit-transition: .5s all;\\n    transition: .5s all;\\n    border-radius: 10px; }\\n  .main-menu-item {\\n    display: block;\\n    width: 100%;\\n    padding: 10px;\\n    color: #fff;\\n    text-decoration: none;\\n    border-top: 1px solid rgba(255, 255, 255, 0.9);\\n    background-color: rgba(0, 0, 0, 0.8); }\\n    .main-menu-item:hover {\\n      color: #777;\\n      -webkit-transition: .6s;\\n      transition: .6s; }\\n  #check-menu:checked ~ .main-menu {\\n    max-height: 500px;\\n    font-size: 16px; }\\n  #check-menu:checked ~ .first {\\n    display: none; }\\n  #check-menu:checked ~ .second {\\n    -webkit-transform: rotate(45deg);\\n            transform: rotate(45deg); }\\n  #check-menu:checked ~ .third {\\n    -webkit-transform: rotate(-45deg);\\n            transform: rotate(-45deg); }\\n  #check-menu:checked ~ .fourth {\\n    display: none; } }\\n\", \"\"]);\n\n// exports\n"
+        },
+        {
+          "id": "ER6q",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/lib/url/escape.js",
+          "name": "../node_modules/css-loader/lib/url/escape.js",
+          "index": 1,
+          "index2": 0,
+          "size": 448,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+          "issuerId": "3zax",
+          "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+          "issuerPath": [
+            {
+              "id": "3zax",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": "3zax",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "type": "cjs require",
+              "userRequest": "../../node_modules/css-loader/lib/url/escape.js",
+              "loc": "1:13-71"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "module.exports = function escape(url) {\n    if (typeof url !== 'string') {\n        return url\n    }\n    // If url is already wrapped in quotes, remove them\n    if (/^['\"].*['\"]$/.test(url)) {\n        url = url.slice(1, -1);\n    }\n    // Should url be wrapped?\n    // See https://drafts.csswg.org/css-values-3/#urls\n    if (/[\"'() \\t\\n]/.test(url)) {\n        return '\"' + url.replace(/\"/g, '\\\\\"').replace(/\\n/g, '\\\\n') + '\"'\n    }\n\n    return url\n}\n"
+        },
+        {
+          "id": "EXHV",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Light.eot",
+          "name": "./fonts/BrandonGrotesque-Light.eot",
+          "index": 6,
+          "index2": 5,
+          "size": 87,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+          "issuerId": "3zax",
+          "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+          "issuerPath": [
+            {
+              "id": "3zax",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+            "fonts/BrandonGrotesque-Light.9e65c2c4.eot"
+          ],
+          "reasons": [
+            {
+              "moduleId": "3zax",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "type": "cjs require",
+              "userRequest": "../fonts/BrandonGrotesque-Light.eot",
+              "loc": "7:632-678"
+            },
+            {
+              "moduleId": "3zax",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "type": "cjs require",
+              "userRequest": "../fonts/BrandonGrotesque-Light.eot",
+              "loc": "7:780-826"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Light.9e65c2c4.eot\";"
+        },
+        {
+          "id": "H36O",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Light.woff",
+          "name": "./fonts/BrandonGrotesque-Light.woff",
+          "index": 7,
+          "index2": 6,
+          "size": 88,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+          "issuerId": "3zax",
+          "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+          "issuerPath": [
+            {
+              "id": "3zax",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+            "fonts/BrandonGrotesque-Light.152bdc29.woff"
+          ],
+          "reasons": [
+            {
+              "moduleId": "3zax",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "type": "cjs require",
+              "userRequest": "../fonts/BrandonGrotesque-Light.woff",
+              "loc": "7:886-933"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Light.152bdc29.woff\";"
+        },
+        {
+          "id": "HD1Y",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Light.ttf",
+          "name": "./fonts/BrandonGrotesque-Light.ttf",
+          "index": 8,
+          "index2": 7,
+          "size": 87,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+          "issuerId": "3zax",
+          "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+          "issuerPath": [
+            {
+              "id": "3zax",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+            "fonts/BrandonGrotesque-Light.e4fcb109.ttf"
+          ],
+          "reasons": [
+            {
+              "moduleId": "3zax",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "type": "cjs require",
+              "userRequest": "../fonts/BrandonGrotesque-Light.ttf",
+              "loc": "7:973-1019"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Light.e4fcb109.ttf\";"
+        },
+        {
+          "id": "KcD8",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Regular.eot",
+          "name": "./fonts/BrandonGrotesque-Regular.eot",
+          "index": 12,
+          "index2": 11,
+          "size": 89,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+          "issuerId": "3zax",
+          "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+          "issuerPath": [
+            {
+              "id": "3zax",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+            "fonts/BrandonGrotesque-Regular.065b98c6.eot"
+          ],
+          "reasons": [
+            {
+              "moduleId": "3zax",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "type": "cjs require",
+              "userRequest": "../fonts/BrandonGrotesque-Regular.eot",
+              "loc": "7:1714-1762"
+            },
+            {
+              "moduleId": "3zax",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "type": "cjs require",
+              "userRequest": "../fonts/BrandonGrotesque-Regular.eot",
+              "loc": "7:1868-1916"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Regular.065b98c6.eot\";"
+        },
+        {
+          "id": "Qdut",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Bold.ttf",
+          "name": "./fonts/BrandonGrotesque-Bold.ttf",
+          "index": 5,
+          "index2": 4,
+          "size": 86,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+          "issuerId": "3zax",
+          "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+          "issuerPath": [
+            {
+              "id": "3zax",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+            "fonts/BrandonGrotesque-Bold.0b59275f.ttf"
+          ],
+          "reasons": [
+            {
+              "moduleId": "3zax",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "type": "cjs require",
+              "userRequest": "../fonts/BrandonGrotesque-Bold.ttf",
+              "loc": "7:435-480"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Bold.0b59275f.ttf\";"
+        },
+        {
+          "id": "S0aF",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Regular.woff",
+          "name": "./fonts/BrandonGrotesque-Regular.woff",
+          "index": 13,
+          "index2": 12,
+          "size": 90,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+          "issuerId": "3zax",
+          "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+          "issuerPath": [
+            {
+              "id": "3zax",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+            "fonts/BrandonGrotesque-Regular.013a89eb.woff"
+          ],
+          "reasons": [
+            {
+              "moduleId": "3zax",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "type": "cjs require",
+              "userRequest": "../fonts/BrandonGrotesque-Regular.woff",
+              "loc": "7:1976-2025"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Regular.013a89eb.woff\";"
+        },
+        {
+          "id": "avaN",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Medium.ttf",
+          "name": "./fonts/BrandonGrotesque-Medium.ttf",
+          "index": 11,
+          "index2": 10,
+          "size": 88,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+          "issuerId": "3zax",
+          "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+          "issuerPath": [
+            {
+              "id": "3zax",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+            "fonts/BrandonGrotesque-Medium.ef4fddb0.ttf"
+          ],
+          "reasons": [
+            {
+              "moduleId": "3zax",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "type": "cjs require",
+              "userRequest": "../fonts/BrandonGrotesque-Medium.ttf",
+              "loc": "7:1516-1563"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Medium.ef4fddb0.ttf\";"
+        },
+        {
+          "id": "c0tF",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Medium.eot",
+          "name": "./fonts/BrandonGrotesque-Medium.eot",
+          "index": 9,
+          "index2": 8,
+          "size": 88,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+          "issuerId": "3zax",
+          "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+          "issuerPath": [
+            {
+              "id": "3zax",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+            "fonts/BrandonGrotesque-Medium.a24bfe8e.eot"
+          ],
+          "reasons": [
+            {
+              "moduleId": "3zax",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "type": "cjs require",
+              "userRequest": "../fonts/BrandonGrotesque-Medium.eot",
+              "loc": "7:1170-1217"
+            },
+            {
+              "moduleId": "3zax",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "type": "cjs require",
+              "userRequest": "../fonts/BrandonGrotesque-Medium.eot",
+              "loc": "7:1321-1368"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Medium.a24bfe8e.eot\";"
+        },
+        {
+          "id": "e0uS",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/lib/css-base.js",
+          "name": "../node_modules/css-loader/lib/css-base.js",
+          "index": 2,
+          "index2": 1,
+          "size": 2260,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+          "issuerId": "3zax",
+          "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+          "issuerPath": [
+            {
+              "id": "3zax",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": "3zax",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "type": "cjs require",
+              "userRequest": "../../node_modules/css-loader/lib/css-base.js",
+              "loc": "2:27-83"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "/*\n\tMIT License http://www.opensource.org/licenses/mit-license.php\n\tAuthor Tobias Koppers @sokra\n*/\n// css base code, injected by the css-loader\nmodule.exports = function(useSourceMap) {\n\tvar list = [];\n\n\t// return the list of modules as css string\n\tlist.toString = function toString() {\n\t\treturn this.map(function (item) {\n\t\t\tvar content = cssWithMappingToString(item, useSourceMap);\n\t\t\tif(item[2]) {\n\t\t\t\treturn \"@media \" + item[2] + \"{\" + content + \"}\";\n\t\t\t} else {\n\t\t\t\treturn content;\n\t\t\t}\n\t\t}).join(\"\");\n\t};\n\n\t// import a list of modules into the list\n\tlist.i = function(modules, mediaQuery) {\n\t\tif(typeof modules === \"string\")\n\t\t\tmodules = [[null, modules, \"\"]];\n\t\tvar alreadyImportedModules = {};\n\t\tfor(var i = 0; i < this.length; i++) {\n\t\t\tvar id = this[i][0];\n\t\t\tif(typeof id === \"number\")\n\t\t\t\talreadyImportedModules[id] = true;\n\t\t}\n\t\tfor(i = 0; i < modules.length; i++) {\n\t\t\tvar item = modules[i];\n\t\t\t// skip already imported module\n\t\t\t// this implementation is not 100% perfect for weird media query combinations\n\t\t\t//  when a module is imported multiple times with different media queries.\n\t\t\t//  I hope this will never occur (Hey this way we have smaller bundles)\n\t\t\tif(typeof item[0] !== \"number\" || !alreadyImportedModules[item[0]]) {\n\t\t\t\tif(mediaQuery && !item[2]) {\n\t\t\t\t\titem[2] = mediaQuery;\n\t\t\t\t} else if(mediaQuery) {\n\t\t\t\t\titem[2] = \"(\" + item[2] + \") and (\" + mediaQuery + \")\";\n\t\t\t\t}\n\t\t\t\tlist.push(item);\n\t\t\t}\n\t\t}\n\t};\n\treturn list;\n};\n\nfunction cssWithMappingToString(item, useSourceMap) {\n\tvar content = item[1] || '';\n\tvar cssMapping = item[3];\n\tif (!cssMapping) {\n\t\treturn content;\n\t}\n\n\tif (useSourceMap && typeof btoa === 'function') {\n\t\tvar sourceMapping = toComment(cssMapping);\n\t\tvar sourceURLs = cssMapping.sources.map(function (source) {\n\t\t\treturn '/*# sourceURL=' + cssMapping.sourceRoot + source + ' */'\n\t\t});\n\n\t\treturn [content].concat(sourceURLs).concat([sourceMapping]).join('\\n');\n\t}\n\n\treturn [content].join('\\n');\n}\n\n// Adapted from convert-source-map (MIT)\nfunction toComment(sourceMap) {\n\t// eslint-disable-next-line no-undef\n\tvar base64 = btoa(unescape(encodeURIComponent(JSON.stringify(sourceMap))));\n\tvar data = 'sourceMappingURL=data:application/json;charset=utf-8;base64,' + base64;\n\n\treturn '/*# ' + data + ' */';\n}\n"
+        },
+        {
+          "id": "hbHt",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Medium.woff",
+          "name": "./fonts/BrandonGrotesque-Medium.woff",
+          "index": 10,
+          "index2": 9,
+          "size": 89,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+          "issuerId": "3zax",
+          "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+          "issuerPath": [
+            {
+              "id": "3zax",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+            "fonts/BrandonGrotesque-Medium.920c11f3.woff"
+          ],
+          "reasons": [
+            {
+              "moduleId": "3zax",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "type": "cjs require",
+              "userRequest": "../fonts/BrandonGrotesque-Medium.woff",
+              "loc": "7:1428-1476"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Medium.920c11f3.woff\";"
+        },
+        {
+          "id": "pRrE",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Regular.ttf",
+          "name": "./fonts/BrandonGrotesque-Regular.ttf",
+          "index": 14,
+          "index2": 13,
+          "size": 89,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+          "issuerId": "3zax",
+          "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+          "issuerPath": [
+            {
+              "id": "3zax",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+            "fonts/BrandonGrotesque-Regular.aba7d125.ttf"
+          ],
+          "reasons": [
+            {
+              "moduleId": "3zax",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "type": "cjs require",
+              "userRequest": "../fonts/BrandonGrotesque-Regular.ttf",
+              "loc": "7:2065-2113"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Regular.aba7d125.ttf\";"
+        },
+        {
+          "id": "twa0",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/file-loader/dist/cjs.js??ref--6!/home/virk/Desktop/Escape/app/fonts/BrandonGrotesque-Bold.woff",
+          "name": "./fonts/BrandonGrotesque-Bold.woff",
+          "index": 4,
+          "index2": 3,
+          "size": 87,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+          "issuerId": "3zax",
+          "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+          "issuerPath": [
+            {
+              "id": "3zax",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+            "fonts/BrandonGrotesque-Bold.1ad8d40b.woff"
+          ],
+          "reasons": [
+            {
+              "moduleId": "3zax",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "type": "cjs require",
+              "userRequest": "../fonts/BrandonGrotesque-Bold.woff",
+              "loc": "7:349-395"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "module.exports = __webpack_public_path__ + \"fonts/BrandonGrotesque-Bold.1ad8d40b.woff\";"
+        },
+        {
+          "id": "velt",
+          "identifier": "/home/virk/Desktop/Escape/node_modules/url-loader/dist/cjs.js??ref--9!/home/virk/Desktop/Escape/node_modules/image-webpack-loader/index.js??ref--10!/home/virk/Desktop/Escape/app/images/background.png",
+          "name": "./images/background.png",
+          "index": 15,
+          "index2": 14,
+          "size": 76,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+          "issuerId": "3zax",
+          "issuerName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+          "issuerPath": [
+            {
+              "id": "3zax",
+              "identifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "name": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 1,
+          "assets": [
+            "images/background.8854ab38.png"
+          ],
+          "reasons": [
+            {
+              "moduleId": "3zax",
+              "moduleIdentifier": "/home/virk/Desktop/Escape/node_modules/css-loader/index.js??ref--8-1!/home/virk/Desktop/Escape/node_modules/postcss-loader/lib/index.js??ref--8-2!/home/virk/Desktop/Escape/node_modules/fast-sass-loader/lib/index.js!/home/virk/Desktop/Escape/app/styles/main.scss",
+              "module": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "moduleName": "../node_modules/css-loader??ref--8-1!../node_modules/postcss-loader/lib??ref--8-2!../node_modules/fast-sass-loader/lib!./styles/main.scss",
+              "type": "cjs require",
+              "userRequest": "../images/background.png",
+              "loc": "7:10336-10371"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "module.exports = __webpack_public_path__ + \"images/background.8854ab38.png\";"
+        }
+      ],
+      "filteredModules": 0,
+      "children": [],
+      "name": "mini-css-extract-plugin ../node_modules/css-loader/index.js??ref--8-1!../node_modules/postcss-loader/lib/index.js??ref--8-2!../node_modules/fast-sass-loader/lib/index.js!styles/main.scss"
+    }
+  ]
+}
