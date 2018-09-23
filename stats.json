@@ -2,14 +2,14 @@
   "errors": [],
   "warnings": [],
   "version": "4.8.3",
-  "hash": "cc72a234c1f1da27b76a",
+  "hash": "139754b17d99ffbf3c31",
   "publicPath": "/",
   "outputPath": "/home/virk/Desktop/Escape/build",
   "assetsByChunkName": {
     "runtime": "scripts/runtime.21804de8.js",
     "main": [
-      "styles/1.474d72bf.css",
-      "scripts/main.1925379d.js"
+      "styles/1.72c0a5e9.css",
+      "scripts/main.a5679de3.js"
     ]
   },
   "assets": [
@@ -86,8 +86,8 @@
       "chunkNames": []
     },
     {
-      "name": "images/background.8854ab38.png",
-      "size": 4775410,
+      "name": "images/background.54e2dac1.png",
+      "size": 2265846,
       "chunks": [],
       "chunkNames": []
     },
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "styles/1.474d72bf.css",
+      "name": "styles/1.72c0a5e9.css",
       "size": 5164,
       "chunks": [
         1
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "scripts/main.1925379d.js",
+      "name": "scripts/main.a5679de3.js",
       "size": 148,
       "chunks": [
         1
@@ -137,8 +137,8 @@
       ],
       "assets": [
         "scripts/runtime.21804de8.js",
-        "styles/1.474d72bf.css",
-        "scripts/main.1925379d.js"
+        "styles/1.72c0a5e9.css",
+        "scripts/main.a5679de3.js"
       ],
       "children": {},
       "childAssets": {}
@@ -152,8 +152,8 @@
       ],
       "assets": [
         "scripts/runtime.21804de8.js",
-        "styles/1.474d72bf.css",
-        "scripts/main.1925379d.js"
+        "styles/1.72c0a5e9.css",
+        "scripts/main.a5679de3.js"
       ],
       "children": {},
       "childAssets": {}
@@ -202,10 +202,10 @@
         "main"
       ],
       "files": [
-        "styles/1.474d72bf.css",
-        "scripts/main.1925379d.js"
+        "styles/1.72c0a5e9.css",
+        "scripts/main.a5679de3.js"
       ],
-      "hash": "1925379d6d078e522556",
+      "hash": "a5679de33080e57d24fb",
       "siblings": [
         0
       ],
@@ -837,8 +837,8 @@
           "chunkNames": []
         },
         {
-          "name": "images/background.8854ab38.png",
-          "size": 4775410,
+          "name": "images/background.54e2dac1.png",
+          "size": 2265846,
           "chunks": [],
           "chunkNames": []
         }
@@ -881,7 +881,7 @@
           "files": [
             "*"
           ],
-          "hash": "2d8f0290ce818a881fd1",
+          "hash": "c6feeaf873ffb6d11126",
           "siblings": [],
           "parents": [],
           "children": [],
@@ -1674,7 +1674,7 @@
               "errors": 0,
               "warnings": 1,
               "assets": [
-                "images/background.8854ab38.png"
+                "images/background.54e2dac1.png"
               ],
               "reasons": [
                 {
@@ -1693,7 +1693,7 @@
                 "ModuleConcatenation bailout: Module is not an ECMAScript module"
               ],
               "depth": 1,
-              "source": "module.exports = __webpack_public_path__ + \"images/background.8854ab38.png\";"
+              "source": "module.exports = __webpack_public_path__ + \"images/background.54e2dac1.png\";"
             }
           ],
           "filteredModules": 0,
@@ -2497,7 +2497,7 @@
           "errors": 0,
           "warnings": 1,
           "assets": [
-            "images/background.8854ab38.png"
+            "images/background.54e2dac1.png"
           ],
           "reasons": [
             {
@@ -2516,7 +2516,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 1,
-          "source": "module.exports = __webpack_public_path__ + \"images/background.8854ab38.png\";"
+          "source": "module.exports = __webpack_public_path__ + \"images/background.54e2dac1.png\";"
         }
       ],
       "filteredModules": 0,
